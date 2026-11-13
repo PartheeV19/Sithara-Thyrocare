@@ -1,0 +1,43 @@
+/* Thyrocare Sithara — quiet clinical palette */
+:root {
+  --primary: #18375a;
+  --primary-dark: #102842;
+  --primary-light: #637d98;
+  --secondary: #f15f56;
+  --secondary-dark: #dc4f47;
+  --accent: #f15f56;
+
+  --bg-primary: #f5f7fa;
+  --bg-white: #ffffff;
+  --bg-dark: #142943;
+  --bg-dark-lighter: #1d3a5d;
+
+  --text-dark: #202d3b;
+  --text-medium: #566373;
+  --text-light: #75808c;
+  --text-white: #ffffff;
+
+  --success: #18375a;
+  --error: #b54d47;
+
+  --border: #e0e5eb;
+  --border-light: #edf0f4;
+
+  --shadow-sm: 0 1px 2px rgba(24, 45, 68, 0.04);
+  --shadow-md: 0 8px 24px rgba(24, 45, 68, 0.06);
+  --shadow-lg: 0 18px 44px rgba(24, 45, 68, 0.09);
+  --shadow-xl: 0 24px 60px rgba(24, 45, 68, 0.12);
+
+  --radius-sm: 5px;
+  --radius-md: 9px;
+  --radius-lg: 14px;
+  --radius-xl: 20px;
+  --radius-full: 9999px;
+
+  --font-body: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+  --font-heading: 'Manrope', 'Helvetica Neue', Arial, sans-serif;
+
+  --transition: all 0.22s ease;
+  --container-max: 1200px;
+  --container-padding: 1.5rem;
+}
